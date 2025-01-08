@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137644692496",
+    "project_id": "pam-firebase-3888c",
+    "storage_bucket": "pam-firebase-3888c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137644692496:android:148219fab979e07a53a695",
+        "android_client_info": {
+          "package_name": "com.example.applicationfirebasefilestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4b9OgBHfHLfHK8vKWvNJqP23Co1n6yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
