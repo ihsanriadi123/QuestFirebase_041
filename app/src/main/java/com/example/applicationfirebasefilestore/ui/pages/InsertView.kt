@@ -40,6 +40,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun InsertMhsView(
@@ -152,7 +153,7 @@ fun InsertBodyMhs(
             }
         }
     }
-}
+
 
 fun FormMahasiswa(
     mahasiswaEvent: MahasiswaEvent,
